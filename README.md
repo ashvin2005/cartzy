@@ -1,9 +1,9 @@
 
-# 🛒 Modern E-commerce Website
+# Modern E-commerce Website
 
 This is a modern e-commerce web application built with [Next.js](https://nextjs.org/), React, and Tailwind CSS. It offers a sleek, dark-themed user interface and a smooth shopping experience across all devices.
 
-## 🚀 Getting Started
+## Getting Started
 
 To run the development server:
 
@@ -20,7 +20,7 @@ bun run dev
 Open [http://localhost:3000](http://localhost:3000) in your browser to see the app.
 
 
-## ✨ Features
+## Features
 
 * **Modern Storefront**
   
@@ -70,7 +70,7 @@ Open [http://localhost:3000](http://localhost:3000) in your browser to see the a
   
   Built with Next.js App Router, dynamic imports, and [next/font](https://nextjs.org/docs/basic-features/font-optimization) for font optimization.
 
-## 📦 Tech Stack
+## Tech Stack
 
 * **Framework:** [Next.js](https://nextjs.org/)
 * **UI:** React + Tailwind CSS
